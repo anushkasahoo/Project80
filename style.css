@@ -1,0 +1,34 @@
+body{
+	text-align: center;
+}
+#submit_button
+{
+	margin-top: 20px; 
+	margin-bottom: 20px; 
+}
+#sort_button
+{
+	margin-top: 20px; 
+	margin-bottom: 20px; 
+}
+#show_button
+{
+	margin-top: 20px; 
+	margin-bottom: 20px; 
+}
+#searching_button
+{
+	margin-top: 20px; 
+	margin-bottom: 20px; 
+}
+#guest_name_with_commas
+{
+    padding: 10px;
+    width: 50%;
+}
+
+#guest_name_without_commas
+{
+    padding: 10px;
+    width: 50%;
+}
